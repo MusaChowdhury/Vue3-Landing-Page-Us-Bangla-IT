@@ -20,14 +20,14 @@ Website uses,
 </ul>
 
 # Preview
-<a href="https://null/"><h3>Preview </h3></a>
+<a href="https://null/"><h3>Live </h3></a>
 <br>
 
 
 # License
 The repository can only be used for educational purpose but without any guaranty. 
 <br>
-<strong> <span style="color:red;">The Logo And Icon </span> of the website is <span style="color:red;"> under copyright </span> of rightful owner. </strong> 
+<strong> The Logo And Icon of the website is under copyright of rightful owner. </strong> 
 
 
 
