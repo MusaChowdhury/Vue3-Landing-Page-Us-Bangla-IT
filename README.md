@@ -20,7 +20,7 @@ Website uses,
 </ul>
 
 # Preview
-<a href="https://null/"><h3>Live </h3></a>
+<a href="https://null/">Live</a>
 <br>
 
 
