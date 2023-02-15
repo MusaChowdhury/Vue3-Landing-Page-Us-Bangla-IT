@@ -1,10 +1,8 @@
-# Setup
-<ol>
-    <li> Clone or Download this Repository. </li>
-    <li> Navigate to the directory. </li>
-    <li> Using "npm install" command install dependencies</li>
-    <li> After that use "npm run dev" tp start a development server at local host. </li>
-</ol>
+# Preview
+<a href="https://usbanglatech.com/">Live</a>
+<br>
+
+
 # Features
 <ul>
     <li>Responsive </li>
@@ -26,9 +24,6 @@ Website uses,
     <li> Tailwind & Flowbite </li>
 </ul>
 
-# Preview
-<a href="https://null/">Live</a>
-<br>
 
 
 # License
@@ -36,6 +31,14 @@ The repository can only be used for educational purpose but without any guaranty
 <br>
 <strong> The Logo And Icon of the website is under copyright of rightful owner. </strong> 
 
+
+# Setup
+<ol>
+    <li> Clone or Download this Repository. </li>
+    <li> Navigate to the directory. </li>
+    <li> Using "npm install" command install dependencies</li>
+    <li> After that use "npm run dev" tp start a development server at local host. </li>
+</ol>
 
 
 
