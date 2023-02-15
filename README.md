@@ -1,3 +1,10 @@
+# Setup
+<ol>
+    <li> Clone or Download this Repository. </li>
+    <li> Navigate to the directory. </li>
+    <li> Using "npm install" command install dependencies</li>
+    <li> After that use "npm run dev" tp start a development server at local host. </li>
+</ol>
 # Features
 <ul>
     <li>Responsive </li>
