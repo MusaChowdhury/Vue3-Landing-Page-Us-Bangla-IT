@@ -1,5 +1,5 @@
 # Preview
-[Live](https://usbanglatech.com/) 
+[<img src="public/thumb.jpg" width="50%">](https://usbanglatech.com/) 
 <br>
 
 
