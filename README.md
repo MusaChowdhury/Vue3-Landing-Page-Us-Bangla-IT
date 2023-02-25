@@ -1,5 +1,5 @@
 # Website
-`#RRGGBB` Visit the website by clicking the image below.
+"#RRGGBB" Visit the website by clicking the image below.
 
 [<img src="public/thumb.jpg">](https://usbanglatech.com/) 
 <br>
