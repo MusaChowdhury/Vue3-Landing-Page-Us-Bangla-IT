@@ -1,5 +1,5 @@
 # Website
-#0969DA Visit the website by clicking the image below.
+<h3> Visit the website by clicking the image below.  </h3>
 
 [<img src="public/thumb.jpg">](https://usbanglatech.com/) 
 <br>
