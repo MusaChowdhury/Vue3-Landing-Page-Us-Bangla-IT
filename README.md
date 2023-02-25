@@ -1,10 +1,7 @@
 # Website
-+ Visit the website by clicking the image below.
-$\text{\color{lime}{Visit \ website \ a \ by \ clicking \ below \ image}}$
-<br>
+`#RRGGBB` Visit the website by clicking the image below.
 
 [<img src="public/thumb.jpg">](https://usbanglatech.com/) 
-
 <br>
 
 <br>
