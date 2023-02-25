@@ -1,7 +1,9 @@
-# Preview
-[<img src="public/thumb.jpg" width="50%">](https://usbanglatech.com/) 
+# Website
+Visit the website by clicking the image below. 
 <br>
-
+[<img src="public/thumb.jpg"](https://usbanglatech.com/) 
+<br>
+<br>
 
 # Features
 <ul>
